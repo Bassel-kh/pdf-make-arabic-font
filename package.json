@@ -45,7 +45,7 @@
     }
   },
   "dependencies": {
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.6.2",
     "linebreak": "^0.3.0",
     "pdfkit": "^0.8.3"
   },
